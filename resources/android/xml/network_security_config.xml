@@ -2,6 +2,7 @@
 <network-security-config>
     <domain-config cleartextTrafficPermitted="true">
         <domain includeSubdomains="true">localhost</domain>
-        <domain includeSubdomains="true">192.168.0.6</domain>
+        <domain includeSubdomains="true">192.168.241.2</domain>
+        <domain includeSubdomains="true">7gyk85-8100.csb.app</domain>
     </domain-config>
 </network-security-config>
